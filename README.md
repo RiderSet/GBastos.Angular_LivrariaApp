@@ -1,5 +1,3 @@
-![Thumbnail](./thumb.png)
-
 # LivrariaApp
 
 É um aplicativo organizador de leituras que permite listar criar, editar, excluir e favoritar livros.
